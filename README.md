@@ -1,2 +1,3 @@
 # Blockchain-Basics
-a coursera course
+a coursera course by University at Buffalo & The State University of New York
+
